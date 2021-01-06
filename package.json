@@ -26,7 +26,7 @@
   "homepage": "https://github.com/Team-Eowyn/steamy-media#readme",
   "dependencies": {
     "artillery": "^1.6.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "body-parser": "^1.19.0",
     "cassandra-driver": "^4.5.2",
     "csv-reader": "^1.0.6",
